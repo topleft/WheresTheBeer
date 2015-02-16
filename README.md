@@ -1,7 +1,7 @@
 # WheresTheBeer
 A beer locator for a production brewery.
 
-I am a brewer at Kannah Creek Brewing Co. (www.kcbcgj.com) and want to imbed a beer locator into our website. This is my first gitHub post, and for now it only contains a python file with basic functionality.  I have had exposure to Flask and Django, so my plan is to use these to expand this into a web app. As a novice to programming, I am learning almost everything as I write this program so any help/suggestion would be appreciated.
+I am a brewer at Kannah Creek Brewing Co. (www.kcbcgj.com) and want to imbed a beer locator into our website. This is my first gitHub post, and for now it only contains a python file with basic functionality.  I have had exposure to Peewee, Flask and Django, so my plan is to use these to expand this into a web app. As a novice to programming, I am learning almost everything as I write this program so any help/suggestions would be appreciated.
 
 Objectives:
 
